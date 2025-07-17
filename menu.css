@@ -1,0 +1,98 @@
+body{
+    background-image: url(istockphoto-649136038-1024x1024.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+    opacity: 0.8;
+}
+
+h1{
+    font-size: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.established{
+    font-family: impact;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+.computer{
+    width: 70%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    max-width: 400px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+
+h3{
+    text-align: center;
+}
+
+hr{
+    height: 5px;
+    width: 350px;
+}
+
+.bottom-line{
+    margin-top: 25px;
+}
+
+h1,h2{
+    font-family: serif;
+}
+
+.computer_programming p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+.front_end,.back_end{
+    text-align: left;
+    width: 10%;
+}
+
+.price{
+    text-align: right;
+    width: 89%;
+}
+
+/* FOOTER */
+
+footer{
+    font-size: 13px;
+}
+
+.address{
+    margin-bottom: 6px;
+}
+
+a{
+    color: blue;
+}
+
+.a:visited{
+    color: black;
+}
+
+.address{
+    margin-bottom: 6px;
+}

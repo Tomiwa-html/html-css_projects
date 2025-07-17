@@ -1,0 +1,99 @@
+body{
+    background-image: url(pexels-lina-kivaka-1813505.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+    opacity: 0.8;
+}
+
+h1{
+    font-size: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.established{
+    font-style: italic;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+.menu{
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 500px;
+    background-color: chocolate;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    text-align: center;
+
+}
+
+hr{
+    height: 5px;
+    width: 350px;
+
+}
+
+.bottom-line{
+    margin-top: 25px;
+}
+
+h1,h2{
+    font-family: serif;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.dishes,.pasteries{
+    text-align: left;
+    width: 78%;
+}
+
+.price{
+    text-align: right;
+    width: 18% ;
+}
+
+/* FOOTER */
+
+footer{
+    font-size: 13px;
+}
+
+.address{
+    margin-bottom: 6px;
+}
+
+a{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+p:hover{
+    background-color:pink ;
+}
